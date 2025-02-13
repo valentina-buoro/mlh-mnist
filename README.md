@@ -12,6 +12,8 @@ Features
 - NumPy, Pandas
 - Matplotlib (for data visualization)
 
+The model achieves 95.6% accuracy on the test dataset.
+
 Contributing
 Feel free to fork this project, make improvements, and submit a pull request. Suggestions are always welcome!
 
